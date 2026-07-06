@@ -139,7 +139,7 @@ ol {
   font-family: 'Oswald', sans-serif;
   font-weight: 700;
   font-size: 75px;
-  line-height: 70px;
+  line-height: 94%;
   text-transform: uppercase;
 }
 
@@ -153,6 +153,7 @@ ol {
 }
 
 .content__video-card-title {
+  margin-bottom: 6px;
   font-family: 'Oswald', sans-serif;
   font-weight: 700;
   font-size: 30px;
@@ -267,7 +268,7 @@ ol {
 }
 
 .more-button {
-  width: 390px;
+  width: 389px;
 }
 
 .button:hover {
